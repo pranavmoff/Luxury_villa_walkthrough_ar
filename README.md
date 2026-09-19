@@ -11,7 +11,7 @@ An immersive 3D architectural visualization and interactive villa walkthrough bu
 ---
 
 <p align="center">
-  <img src="screenshots/01-villa-exterior.png" alt="Luxury Villa Walkthrough Exterior View" width="100%">
+  <img src="screenshots/01-villa-showcase.png" alt="Luxury Villa Walkthrough Exterior View" width="100%">
 </p>
 
 ---
@@ -240,8 +240,21 @@ GitHub Repository Link:
 
 ## ✨ Final Showcase
 
+### 1. Villa Showcase
 <p align="center">
-  <img src="screenshots/01-villa-exterior.png" alt="Luxury Villa Walkthrough" width="100%">
+  <img src="screenshots/01-villa-showcase.png" alt="Luxury Villa Walkthrough - PRANAV & ANANYA METROPOLITAN" width="100%">
+</p>
+
+### 2. Car Parking
+> **Note to Developer:** Please capture the actual parking area from the running project. Show the cars, parking area, villa/environment, and landscaping using a clean, attractive game-camera view. Save it as `screenshots/02-car-parking.png` to replace the broken image link below.
+<p align="center">
+  <img src="screenshots/02-car-parking.png" alt="Luxury Villa - Car Parking Area" width="100%">
+</p>
+
+### 3. Lawn / Landscaping
+> **Note to Developer:** Please capture the actual lawn/garden area from the running project. Show the grass, trees, bushes, pathways, and surrounding villa/environment from the most visually appealing angle. Save it as `screenshots/03-lawn-landscape.png` to replace the broken image link below.
+<p align="center">
+  <img src="screenshots/03-lawn-landscape.png" alt="Luxury Villa - Lawn and Landscaping" width="100%">
 </p>
 
 <p align="center">
